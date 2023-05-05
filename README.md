@@ -12,9 +12,9 @@ Classes and elements were separated, then ordered alphabetically within each gro
 Comments added to delineate each separation
 A descriptive title was added
 Links
-Link to the deployed website
+Link to the deployed website: https://yungxsuccess.github.io/Horiseon-code-refactor/
 
-Link to the code repository
+Link to the code repository: https://github.com/yungxsuccess/Horiseon-code-refactor
 
 Installation
 Upload index.html, license.txt, and assets folder to the deployed webserver. The assets folder contains images and CSS files.
